@@ -179,7 +179,7 @@ body {
 
 .hero-filters-btn {
   font-family: var(--primary-font);
-  background-color: (--cloud);
+  background-color: var(--cloud);
   color: var(--iris);
   text-align: center;
   font-size: 16px;
@@ -204,6 +204,7 @@ body {
 }
 
 .portfolio-text {
+  color: var(--slate);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
