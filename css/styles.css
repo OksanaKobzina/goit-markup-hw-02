@@ -59,7 +59,6 @@ body {
 .header-link:hover,
 .header-link:focus {
   color: var(--ocean);
-  text-decoration: underline;
 }
 
 .header-address {
